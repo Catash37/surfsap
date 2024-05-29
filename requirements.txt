@@ -19,7 +19,6 @@ configobj==5.0.6
 cookiecutter==1.7.2
 cryptography==2.8
 dbus-python==1.2.16
-defer==1.0.6
 dill==0.3.2
 distlib==0.3.0
 distro==1.4.0
