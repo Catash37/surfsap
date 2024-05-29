@@ -31,7 +31,6 @@ flask==3.0.3
 Flask-Bootstrap==3.3.7.1
 flask-sqlalchemy==3.1.1
 flask-wtf==1.2.1
-future==0.18.2
 genie==20.5
 genie.libs.clean==20.5
 genie.libs.conf==20.5
