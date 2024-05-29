@@ -22,7 +22,6 @@ dbus-python==1.2.16
 dill==0.3.2
 distlib==0.3.0
 distro==1.4.0
-distro-info===0.23ubuntu1
 dnspython==1.16.0
 dominate==2.9.1
 entrypoints==0.3
